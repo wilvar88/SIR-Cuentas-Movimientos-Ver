@@ -47,9 +47,9 @@ window.BUTTONS = [
     },
   },
   {
-    x: 76.4, y: 71.8,
+    x: 76.4, y: 71.8, // Aceptar
     label: "+",
-    href: "https://wilvar88.github.io/SIR-2/",
+    href: "https://wilvar88.github.io/SIR-Cuentas-Movimientos/",
     target: "self",
     // Si quieres totalmente transparente, puedes usar la variante 'transparent'
     // (ojo: pone background transparente con !important)
@@ -69,9 +69,9 @@ window.BUTTONS = [
     },
   },
   {
-    x: 80.9, y: 23.9,
+    x: 80.9, y: 23.9, // X Cerrar
     label: "+",
-    href: "https://wilvar88.github.io/SIR-2/",
+    href: "https://wilvar88.github.io/SIR-Cuentas-Movimientos/",
     target: "self",
     // Si quieres totalmente transparente, puedes usar la variante 'transparent'
     // (ojo: pone background transparente con !important)
